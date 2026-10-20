@@ -9,7 +9,7 @@
 
 **I turn digital-design concepts into integrated hardware/software prototypes.**
 
-[Projects](#featured-projects) · [Technical Focus](#technical-focus) · [Engineering Approach](#engineering-approach)
+[Projects](#featured-projects) · [Technical Focus](#technical-focus) · [Engineering Approach](#engineering-approach) · [LinkedIn](https://www.linkedin.com/in/eyad-abed-4417b033b/)
 
 ![Electronics Engineering](https://img.shields.io/badge/Electronics_Engineering-263238?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-1565C0?style=for-the-badge)
