@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Eyad | Electronics Engineering</title>
+<desc id="desc">A dark terminal-inspired banner for an Electronics Engineering student interested in FPGA design, embedded systems, digital electronics, and hardware/software integration.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1220"/><stop offset="1" stop-color="#101f2b"/></linearGradient>
+ <linearGradient id="trace"><stop stop-color="#26d9c4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7aa3bc" stroke-opacity=".1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<path d="M0 318H1200" stroke="#294052"/>
+<g font-family="Consolas,Monaco,monospace">
+ <text x="34" y="36" font-size="13" fill="#77a2b6" letter-spacing="2">EE / ENGINEERING IDENTITY</text><text x="1160" y="36" font-size="12" fill="#77a2b6" text-anchor="end">PROFILE.BUILD // 01</text>
+ <rect x="30" y="54" width="430" height="238" rx="15" fill="#142536" stroke="#2a475b"/><text x="52" y="81" font-size="12" fill="#6ddbd0" letter-spacing="2">VISUAL.MAP</text>
+ <g transform="translate(76 105)" stroke="url(#trace)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M0 25H34V9H62 M0 53H29V73H62 M0 91H39V108H62 M0 119H24V138H62 M226 25H192V9H164 M226 53H198V73H164 M226 91H187V108H164 M226 119H202V138H164"/>
+  <rect x="58" y="0" width="110" height="150" rx="10" fill="#0a1624" stroke="#37cbbb"/><rect x="73" y="17" width="80" height="82" rx="5" fill="#122838" stroke="#375e72"/>
+  <path d="M82 31H143M82 42H143M82 53H143M82 64H143M82 75H143" stroke="#316176" stroke-width="1"/>
+  <text x="113" y="58" text-anchor="middle" fill="#e8f9ff" stroke="none" font-size="29" font-weight="700">EE</text><text x="113" y="124" text-anchor="middle" fill="#76e4d9" stroke="none" font-size="11" letter-spacing="1">FPGA / EMBEDDED</text>
+  <circle cx="0" cy="25" r="3.4" fill="#26d9c4" stroke="none"/><circle cx="0" cy="53" r="3.4" fill="#26d9c4" stroke="none"/><circle cx="0" cy="91" r="3.4" fill="#26d9c4" stroke="none"/><circle cx="0" cy="119" r="3.4" fill="#26d9c4" stroke="none"/>
+  <circle cx="226" cy="25" r="3.4" fill="#60a5fa" stroke="none"/><circle cx="226" cy="53" r="3.4" fill="#60a5fa" stroke="none"/><circle cx="226" cy="91" r="3.4" fill="#60a5fa" stroke="none"/><circle cx="226" cy="119" r="3.4" fill="#60a5fa" stroke="none"/>
+ </g>
+ <text x="245" y="258" font-size="11" fill="#8aa9bb" text-anchor="middle">LOGIC · SIGNALS · SYSTEMS</text>
+ <rect x="482" y="54" width="688" height="238" rx="15" fill="#0b1522" stroke="#2a475b"/><path d="M482 96H1170" stroke="#2a475b"/>
+ <circle cx="506" cy="76" r="4" fill="#fc6c78"/><circle cx="522" cy="76" r="4" fill="#eabf65"/><circle cx="538" cy="76" r="4" fill="#55d6a2"/><text x="563" y="81" font-size="12" fill="#82a7bb">SYSTEM.INFO — ~/eyad</text>
+ <text x="512" y="126" font-size="14" fill="#7e9bb0">$ whoami</text><text x="512" y="153" font-size="20" fill="#e5f5ff" font-weight="700">Electronics Engineering Student</text>
+ <text x="512" y="184" font-size="14" fill="#7e9bb0">$ focus --areas</text><text x="512" y="210" font-size="15" fill="#67e2d4">FPGA Design / Embedded Systems</text><text x="512" y="234" font-size="15" fill="#80b8ff">Digital Electronics / HW-SW Integration</text>
+ <text x="512" y="264" font-size="13" fill="#8aa9bb">$ status: learning · building · documenting</text>
+ <rect x="30" y="314" width="8" height="8" rx="2" fill="#43d8b3"><animate attributeName="opacity" values="1;.35;1" dur="4s" repeatCount="indefinite"/></rect><text x="48" y="323" font-size="11" fill="#7da0b4" letter-spacing="1.2">DESIGN WITH INTENT. VERIFY THE DETAILS.</text><text x="1165" y="323" font-size="11" fill="#7da0b4" text-anchor="end">DIGITAL SYSTEMS // EMBEDDED COMPUTING</text>
+</g></svg>
